@@ -1,0 +1,10 @@
+INSERT INTO pokemons (pokemon_name, pokemon_url_image, pokemon_type) VALUES('tester bulbasaur', 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1/', 'plant');
+INSERT INTO pokemons (pokemon_name, pokemon_url_image, pokemon_type) VALUES('tester ivysaur', 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2/', 'plant');
+INSERT INTO pokemons (pokemon_name, pokemon_url_image, pokemon_type) VALUES('tester venusaur', 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3/', 'plant');
+INSERT INTO pokemons (pokemon_name, pokemon_url_image, pokemon_type) VALUES('tester charmander', 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4/', 'fire');
+INSERT INTO pokemons (pokemon_name, pokemon_url_image, pokemon_type) VALUES('tester charmeleon', 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5/', 'fire');
+INSERT INTO pokemons (pokemon_name, pokemon_url_image, pokemon_type) VALUES('tester charizard', 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6/', 'fire');
+INSERT INTO pokemons (pokemon_name, pokemon_url_image, pokemon_type) VALUES('tester squirtle', 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7/', 'water');
+INSERT INTO pokemons (pokemon_name, pokemon_url_image, pokemon_type) VALUES('tester wartortle', 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8/', 'water');
+INSERT INTO pokemons (pokemon_name, pokemon_url_image, pokemon_type) VALUES('tester blastoise', 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9/', 'water');
+INSERT INTO pokemons (pokemon_name, pokemon_url_image, pokemon_type) VALUES('tester caterpie', 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10/', 'plant');
