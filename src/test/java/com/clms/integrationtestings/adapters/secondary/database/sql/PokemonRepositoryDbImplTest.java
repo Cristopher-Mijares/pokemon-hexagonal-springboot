@@ -43,7 +43,10 @@ public class PokemonRepositoryDbImplTest {
 
     @Test
     void testGetAllPokemonsByTypeWaterMustReturn3Pokemons() {
+        // STEP 2 - ACTING executing the tested method
         List<Pokemon> testerPokemons = pokemonRepository.getPokemonsByType("water");
+        
+        // STEP 3 - ASSERTING
         assertEquals(3, testerPokemons.size());
         assertTrue(testerPokemons.get(0).getName().contains("tester"));
     }
